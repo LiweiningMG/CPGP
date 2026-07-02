@@ -7,3 +7,4 @@ code/R/*.R text eol=lf
 *.fam text eol=lf
 code/bin/* binary
 *.bed binary
+code/bin/*.md text eol=lf diff

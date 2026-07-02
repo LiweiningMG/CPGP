@@ -1,0 +1,9 @@
+*.sh text eol=lf
+code/shell/*.sh text eol=lf
+code/R/*.R text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.bim text eol=lf
+*.fam text eol=lf
+code/bin/* binary
+*.bed binary
